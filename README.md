@@ -1,1 +1,1 @@
-This is a Core java based game in which a range of number 1 to 10 given and user will have to guess the correct number in a single chance.If user entered number match to the generated number then user win.
+It is a Core java based game in which a range of number 1 to 10 given and user will have to guess the correct number in a single chance.If user entered number match to the generated number then user win.
